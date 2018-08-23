@@ -1,0 +1,18 @@
+Abstract Class vs Interface
+
+Interface
+	- only abstract function 
+
+Abstract Class
+	- Full Class
+	- can't instantiate
+	- template
+
+
+Abstract function
+	- can't have implementation
+
+
+Class extends Class
+
+	One Class

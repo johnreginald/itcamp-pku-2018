@@ -1,0 +1,13 @@
+private
+	self-class
+
+public
+	self-class
+	child-class
+	instance
+
+protected
+	self-class
+	child-class
+	
+
